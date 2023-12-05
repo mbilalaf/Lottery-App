@@ -1,0 +1,4 @@
+#Tue Dec 05 22:20:51 PKT 2023
+base.0=H\:\\fluuter apps\\lottery_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
